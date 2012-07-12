@@ -280,9 +280,12 @@ Full-Width Styles
 #name {
   display: block;
   position: absolute;
-  top:0;
-  right: 30px;
+  top: 6px;
+  left: 10px;
   z-index: 10;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 300;
 }
 
 #forkme_banner {
