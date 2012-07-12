@@ -463,3 +463,8 @@ Other Styles
 .podcast {
   float: right;
 }
+
+.createdfor {
+  font-size: 14px;
+  text-align: right;
+}
