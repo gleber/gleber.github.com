@@ -446,10 +446,15 @@ Small Device Styles
 /*******************************************************************************
 Other Styles
 *******************************************************************************/
+#clients {
+  margin-left: -70px;
+  margin-right: -70px;
+}
+
 .client {
   width: 150px;
   display: inline-block;
-  margin: 10px 40px;
+  margin: 10px 20px;
 }
 
 .client img {
