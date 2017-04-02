@@ -1,0 +1,53 @@
+https://keybase.io/gleber
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gleber.pl
+  * I am gleber (https://keybase.io/gleber) on keybase.
+  * I have a public key
+ASB7y5FBXaAhk6Lh0xiu_N8Ji4FvanzL3IqNYOjbc8pTwgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010179075dbef8307c920643146a3274439b51dcbf075ef35ced359deb427d0b0fa60a",
+            "host": "keybase.io",
+            "kid": "01207bcb91415da02193a2e1d318aefcdf098b816f6a7ccbdc8a8d60e8db73ca53c20a",
+            "uid": "fa4e3cada81b57ddfd38558b20363819",
+            "username": "gleber"
+        },
+        "service": {
+            "hostname": "gleber.pl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1491074879,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1491074860,
+        "hash": "f95bbb5f70933775017e76dd83b7942f6779c7297bf1b80b15ce50e894d5cd9a855b7f0d2faef51908c5cfd3fef72ffc573e3f891460b7268e7980340188b15a",
+        "seqno": 993514
+    },
+    "prev": "ba57ec6f4923e5a7f746625caf62cbf7f9ddf5012b3417a06411e09b18fc9938",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge8uRQV2gIZOi4dMYrvzfCYuBb2p8y9yKjWDo23PKU8IKp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNzkwNzVkYmVmODMwN2M5MjA2NDMxNDZhMzI3NDQzOWI1MWRjYmYwNzVlZjM1Y2VkMzU5ZGViNDI3ZDBiMGZhNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2JjYjkxNDE1ZGEwMjE5M2EyZTFkMzE4YWVmY2RmMDk4YjgxNmY2YTdjY2JkYzhhOGQ2MGU4ZGI3M2NhNTNjMjBhIiwidWlkIjoiZmE0ZTNjYWRhODFiNTdkZGZkMzg1NThiMjAzNjM4MTkiLCJ1c2VybmFtZSI6ImdsZWJlciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2xlYmVyLnBsIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ5MTA3NDg3OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkxMDc0ODYwLCJoYXNoIjoiZjk1YmJiNWY3MDkzMzc3NTAxN2U3NmRkODNiNzk0MmY2Nzc5YzcyOTdiZjFiODBiMTVjZTUwZTg5NGQ1Y2Q5YTg1NWI3ZjBkMmZhZWY1MTkwOGM1Y2ZkM2ZlZjcyZmZjNTczZTNmODkxNDYwYjcyNjhlNzk4MDM0MDE4OGIxNWEiLCJzZXFubyI6OTkzNTE0fSwicHJldiI6ImJhNTdlYzZmNDkyM2U1YTdmNzQ2NjI1Y2FmNjJjYmY3ZjlkZGY1MDEyYjM0MTdhMDY0MTFlMDliMThmYzk5MzgiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAbL+Mz0JXnGtOoyfDzIOv1OJ0ScowgNI1RyydO8LS7kr0id0hSy7PCcoFcPdN9MeprfPjyw+9UYc/BL+qC8U4CqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQggRM5a3Tmtz4gXBuCnuBDUds6xElkhOl6uw2HIn7bUEejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gleber
+
